@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "simply learning basic node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilianoRojas/nodejs-tuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilianoRojas/nodejs-tuto/issues"
+  },
+  "homepage": "https://github.com/EmilianoRojas/nodejs-tuto#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "generator": "^1.0.1",
+    "hbs": "^4.1.0",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "pug": "^2.0.4",
+    "request": "^2.88.0",
+    "yargs": "^15.1.0"
+  }
+}
